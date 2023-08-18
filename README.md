@@ -14,4 +14,3 @@ Skills: REACT / JS / Python / ChatGPT / HTML / CSS / SQL
 
 
 Thanks for visiting my profile, see you next time!
-![Profile views](https://gpvc.arturio.dev/fromOkayToGreat)  
