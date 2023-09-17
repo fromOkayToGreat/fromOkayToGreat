@@ -2,15 +2,19 @@
 
 I am a Full-Stack Software Engineer based in 🌎 Fullerton, CA USA.  
 
-My passion is developing well-designed, tested, and documented software that users love. 😍
+My passion is developing well-designed, tested, and documented software that users love 😍
 
-Skills: REACT / JS / Python / ChatGPT / HTML / CSS / SQL
+### Tools: 
 
-- 🔭 I’m currently working on itisoverdue.com 
-- 🌱 I’m currently learning ChatGPT, React, Next.js, Prisma, Rust, MidJourney/SD 
+Google Suite, MS Suite, Adobe Suite, GitHub, Git, Figma, VS Code, AWS, GCP, Discord, Asana, Jira.
+
+### Languages: 
+
+English, Spanish, Korean, JavaScript, MySQL, Python, CSS, HTML, Tailwind, React, Next.js.
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fromOkayToGreat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/francisco-gramajo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/fromokaytogreat/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/fromOkayToGreat)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/francisco-gramajo/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/fromOkayToGreat)  
 
 
 Thanks for visiting my profile, see you next time!
